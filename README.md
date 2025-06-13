@@ -27,7 +27,6 @@ A backend service built using **Node.js** and **Express.js** that provides perso
 
 ## ⚙️ Setup Instructions
 
-### 1. Unzip the project folder and navigate into it:
 
 ```bash
 git clone https://github.com/Yashbontala/horoscope-api.git
